@@ -1,5 +1,5 @@
 <h1 align="left" align="center">💫 About Me:</h1>
-<p align="left">I am a passionate software developer from Ethiopia. I am interested in frontend development</p>
+<p align="left">I am a passionate software developer from Ethiopia and I am interested in frontend development.</p>
 
 - 🌱 I’m currently learning **HTML, CSS, and Javascript**
 

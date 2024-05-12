@@ -7,10 +7,10 @@
 
 <h2 align="left" align="center">🌐 Socials:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mikiyas-tewodroes-7b6661245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mikiyas-tewodroes-7b6661245" height="25" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/mikitedi9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/mikitedi9" height="25" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/mikitedi9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/mikitedi9" height="25" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/mikitedi9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mikitedi9/" height="25" width="40" /></a>
+<a href="https://www.linkedin.com/in/mikiyas-tewodroes-7b6661245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mikiyas-tewodroes-7b6661245" height="25" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/mikitedi9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/mikitedi9" height="25" width="40" /></a>
+<a href="https://codeforces.com/profile/mikitedi9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/mikitedi9" height="25" width="40" /></a>
+<a href="https://leetcode.com/mikitedi9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mikitedi9/" height="25" width="40" /></a>
 </p>
 
 <h1 align="left">💻 Tech Stack:</h1>

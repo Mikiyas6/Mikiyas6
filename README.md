@@ -29,7 +29,7 @@
 <h1 align="left"> 🏆 GitHub Trophies:</h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mikiyas6" alt="mikiyas6" /></a> </p>
-
+</br>
 <div>
   <h1 align="left"> ✍️ Random Dev Quote:</h1>
 <p align="left">"Imagine this worked"</p>

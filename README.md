@@ -26,6 +26,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mikiyas6&theme=dark" alt="mikiyas6" /></p>
 </br>
+![LeetCode Stats](https://leetcode.card.workers.dev/mikitedi9?theme=dark&font=source_code_pro&extension=activity)
+</br>
 <h1 align="left"> 🏆 GitHub Trophies:</h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mikiyas6" alt="mikiyas6" /></a> </p>

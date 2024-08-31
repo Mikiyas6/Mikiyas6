@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, and Javascript**
 
-- 📫 How to reach me **mikiyas.tewodroes@a2sv.org**
+- 📫 How to reach me **Mikiyas.Tewodroes@A2SV.org**
 </br>
 <h2 align="left" align="center">🌐 Socials:</h2>
 <p align="left">

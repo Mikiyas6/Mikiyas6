@@ -2,7 +2,7 @@
 </br>
 <p align="left">I am a passionate software developer from Ethiopia and I am interested in frontend development.</p>
 
-- 🌱 I’m currently learning **HTML, CSS, and Javascript**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **Mikiyas.Tewodroes@A2SV.org**
 </br>

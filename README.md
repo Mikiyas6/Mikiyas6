@@ -1,6 +1,6 @@
 <h1 align="left" align="center">💫 About Me:</h1>
 </br>
-<p align="left">I am a passionate software developer from Ethiopia and I am interested in frontend development.</p>
+<p align="left">I am a passionate Software Developer from Ethiopia and I am interested in Frontend Web Development.</p>
 
 - 🌱 I’m currently learning **React**
 

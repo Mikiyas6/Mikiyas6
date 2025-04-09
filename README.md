@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Next.JS**
 
-- <span mt="1000p" align="center" justify="center">[![committers.top badge](https://user-badge.committers.top/ethiopia/Mikiyas6.svg)](https://user-badge.committers.top/ethiopia/Mikiyas6) </span> I'm **The 2nd Most active Github contribuitor in Ethiopia** 
+- <span mt="1000p" align="center" justify="center">[![committers.top badge](https://user-badge.committers.top/ethiopia/Mikiyas6.svg)](https://user-badge.committers.top/ethiopia/Mikiyas6) </span> I'm **Currently the Most active Github contribuitor in Ethiopia** 
 
 - 📫 How to reach me **Mikiyas.Tewodroes@A2SV.org**
 </br>

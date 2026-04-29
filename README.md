@@ -2,7 +2,7 @@
 </br>
 <p align="left">I am a passionate Software Developer from Ethiopia and I am interested in Frontend Web Development.</p>
 
-- 🌱 I’m currently learning **Next.JS**
+- 🌱 I’m currently learning **Flutter**
 
 - <span mt="1000p" align="center" justify="center">[![committers.top badge](https://user-badge.committers.top/ethiopia/Mikiyas6.svg)](https://user-badge.committers.top/ethiopia/Mikiyas6) </span> I'm **Currently the Most active Github contribuitor in Ethiopia** 
 

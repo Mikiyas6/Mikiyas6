@@ -3,7 +3,7 @@
 <!-- ANIMATED TYPING HEADER — reliable, no broken images -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=36&duration=4000&pause=2000&color=C47A1E&center=true&vCenter=true&width=700&height=80&lines=MIKIYAS+TEOWODROES)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2500&pause=1200&color=928374&center=true&vCenter=true&width=640&height=30&lines=Frontend+%26+Mobile+Engineer+%E2%80%94+Addis+Ababa%2C+Rwanda+%F0%9F%87%AA%F0%9F%87%B9+%E2%80%94+A2SV+Head+of+Academy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2500&pause=1200&color=928374&center=true&vCenter=true&width=640&height=30&lines=Frontend+%26+Mobile+Engineer+%E2%80%94+Kigali%2C+Rwanda+%F0%9F%87%AA%F0%9F%87%B9+%E2%80%94+A2SV+Head+of+Academy)](https://git.io/typing-svg)
 
 <br/>
 
@@ -37,7 +37,7 @@
 
 [![line1](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=1&pause=99999&color=C47A1E&center=true&vCenter=true&width=500&height=24&lines=%3E+name+......+Mikiyas+Teowodroes)](https://git.io/typing-svg)
 
-[![line2](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=1&pause=99999&color=C47A1E&center=true&vCenter=true&width=500&height=24&lines=%3E+location+...+Addis+Ababa%2C+Rwanda+%F0%9F%87%AA%F0%9F%87%B9)](https://git.io/typing-svg)
+[![line2](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=1&pause=99999&color=C47A1E&center=true&vCenter=true&width=500&height=24&lines=%3E+location+...+Kigali%2C+Rwanda+%F0%9F%87%AA%F0%9F%87%B9)](https://git.io/typing-svg)
 
 [![line3](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=1&pause=99999&color=C47A1E&center=true&vCenter=true&width=500&height=24&lines=%3E+role+......+Frontend+%26+Mobile+Engineer)](https://git.io/typing-svg)
 
